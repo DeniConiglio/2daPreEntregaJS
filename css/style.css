@@ -1,0 +1,38 @@
+body {
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  color: white;    
+  text-align: center;
+  align-items: center;
+}
+
+
+h1{
+    text-align: center;
+    font-size: xxx-large;
+}
+
+.botones{
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+border-radius: 50px;
+padding-left: 45%;
+padding-right: 45%;
+  opacity: 0.9;
+  
+}
+
+button{
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-bottom:5px ;
+  background-color: white;
+  border-radius: 50px;
+  border-color: white;
+  color: rgba(131,58,180,1);
+ 
+}
+
+ 
+
